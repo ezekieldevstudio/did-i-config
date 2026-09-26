@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Privacy Policy for Did I?, an Android daily check app by ezekieldevstudio.">
+  <title>Privacy Policy — Did I?</title>
+  <style>
+    :root { color-scheme: light; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; color: #17243b; background: #f5f6fa; }
+    * { box-sizing: border-box; }
+    body { margin: 0; line-height: 1.7; }
+    main { max-width: 780px; margin: 40px auto; padding: 36px; background: #fff; border: 1px solid #dce1eb; border-radius: 20px; }
+    h1 { font-size: clamp(2rem, 6vw, 2.7rem); line-height: 1.15; margin: 8px 0 16px; letter-spacing: -.035em; }
+    h2 { font-size: 1.2rem; line-height: 1.4; margin: 30px 0 10px; }
+    p, ul { margin: 10px 0; }
+    ul { padding-left: 24px; }
+    a { color: #254ec5; overflow-wrap: anywhere; text-underline-offset: 3px; }
+    a:focus-visible { outline: 3px solid #315bda; outline-offset: 4px; }
+    .brand { color: #315bda; font-size: 1rem; font-weight: 750; }
+    .meta { color: #58647a; font-size: .94rem; }
+    .summary { padding: 16px 18px; background: #f0f4ff; border-radius: 12px; margin-top: 24px; }
+    footer { border-top: 1px solid #dce1eb; margin-top: 32px; padding-top: 16px; color: #58647a; font-size: .9rem; }
+    @media (max-width: 600px) { main { margin: 0; padding: 24px 20px 36px; border: 0; border-radius: 0; } }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <div class="brand">Did I?</div>
+    <h1>Privacy Policy</h1>
+    <p class="meta">Android package: <strong>com.ezekiel.didi</strong><br>
+      Effective: <time datetime="2026-09-26">September 26, 2026</time><br>
+      Last updated: <time datetime="2026-09-26">September 26, 2026</time></p>
+    <p>This policy explains how Did I? for Android, operated by <strong>ezekieldevstudio</strong> (“we”), handles information.</p>
+    <p class="summary">Your check items are stored on your device. No account is required. The app uses Google advertising services, which process information separately as described below.</p>
+  </header>
+
+  <section aria-labelledby="local">
+    <h2 id="local">1. Information stored on your device</h2>
+    <p>Did I? uses local app storage (AsyncStorage) to save:</p>
+    <ul>
+      <li>Item names, internal item IDs, and daily goal counts.</li>
+      <li>The current day's counts and the local date used to reset those counts.</li>
+      <li>Up to five recent item names, in recent-use order, for quick reuse.</li>
+      <li>A storage format version so the app can read saved data.</li>
+    </ul>
+    <p>Adding or saving an edited item updates recent names. Selecting a suggestion only fills the input until you save it. The app reads your device language to choose Korean or English suggestions.</p>
+    <p>We do not send these item names, goals, counts, or recent names to a developer-operated server or include them in our ad requests.</p>
+  </section>
+
+  <section aria-labelledby="accounts">
+    <h2 id="accounts">2. Accounts, servers, and backup</h2>
+    <p>Did I? has no account or login, developer-operated backend or database, or in-app cloud backup or synchronization feature.</p>
+    <p>The Android build allows operating-system backup. Depending on your device and backup settings, Android may back up or transfer app data and restore it after reinstallation or on another device. This is an Android service, not a backup service operated by us.</p>
+  </section>
+
+  <section aria-labelledby="ads">
+    <h2 id="ads">3. Google advertising services</h2>
+    <p>Did I? uses Google AdMob through the Google Mobile Ads SDK to display a banner on the home screen.</p>
+    <p>Google's advertising services may process IP addresses (including approximate location derived from them), advertising and other device identifiers, app and ad interactions, and diagnostic information. Google uses this information for ad delivery, measurement, security, and fraud prevention. Handling depends on device settings, privacy choices, and applicable ad-serving rules.</p>
+    <p>Read the <a href="https://policies.google.com/privacy">Google Privacy Policy</a>,
+      <a href="https://policies.google.com/technologies/ads">Google advertising privacy information</a>, and
+      <a href="https://developers.google.com/admob/android/privacy/play-data-disclosure">Google Mobile Ads SDK data disclosures</a> for details of Google's processing and controls.</p>
+  </section>
+
+  <section aria-labelledby="consent">
+    <h2 id="consent">4. Consent and privacy choices</h2>
+    <p>The app uses Google's User Messaging Platform (UMP), through AdsConsent, to update consent information and show a consent form when required by Google's configured privacy flow.</p>
+    <p>The app initializes the advertising SDK and requests a banner only when the SDK reports that ads may be requested (<code>canRequestAds</code>). If the consent update fails, the app checks whether an existing consent state still permits requests. Otherwise, ads are not requested.</p>
+    <p>This permission to request ads is not the same as consent to personalized ads. The app does not force all requests to be personalized or all requests to be non-personalized; Google's ad serving depends on the applicable consent signals and rules.</p>
+    <p>When Google requires a privacy-options entry point, <strong>Ad privacy choices</strong> appears in Settings. You can also manage your advertising ID through Android settings.</p>
+  </section>
+
+  <section aria-labelledby="deletion">
+    <h2 id="deletion">5. Retention and deletion</h2>
+    <p>Items remain in local storage until you delete them or clear app data. When the local date changes, the app resets today's counts and keeps the items, goals, and recent names; it does not keep a daily count archive.</p>
+    <p>Confirming <strong>Delete</strong> removes the item's ID, name, goal, and count from the saved item list once the local save succeeds. A separate copy of its name may remain in recent names, even after deletion or renaming. Recent names are limited to five and older names are displaced as other names are saved. Deleting an item does not clear that history.</p>
+    <p>To remove all locally stored app data, use Android's <strong>Clear storage / Clear data</strong> option or uninstall the app. Uninstalling normally removes that installation's local data. System backup copies may remain and may be restored according to your Android backup settings; manage those separately through your device or backup provider.</p>
+    <p>We do not hold a server copy of your check items. Google's retention and deletion practices for advertising data are covered by its policies linked above.</p>
+  </section>
+
+  <section aria-labelledby="children">
+    <h2 id="children">6. Children</h2>
+    <p>Did I? is a general-purpose daily check app and is not specifically designed for children. If you have a concern about a child's privacy, contact us below.</p>
+  </section>
+
+  <section aria-labelledby="website">
+    <h2 id="website">7. This policy page</h2>
+    <p>This static page contains no scripts, ads, or tracking tools added by us. GitHub Pages hosts it and may process connection information such as your IP address when you visit. See the <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy Statement</a>.</p>
+  </section>
+
+  <section aria-labelledby="changes">
+    <h2 id="changes">8. Changes to this policy</h2>
+    <p>We may update this policy when the app or its data practices change. The revised policy and its last-updated date will be published on this page.</p>
+  </section>
+
+  <section aria-labelledby="contact">
+    <h2 id="contact">9. Contact</h2>
+    <p>Developer / operator: <strong>ezekieldevstudio</strong><br>
+      Privacy inquiries: <a href="mailto:ezekieldevstudio@gmail.com">ezekieldevstudio@gmail.com</a></p>
+    <p>If you email us, we receive your email address and the information you choose to send and use it to respond to your request. Please do not send private check-item contents unless needed for your inquiry.</p>
+  </section>
+  <footer>Did I? · Android privacy policy</footer>
+</main>
+</body>
+</html>
