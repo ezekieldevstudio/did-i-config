@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "content": {
+    "faq": {
+      "version": 1,
+      "file": "faq.json"
+    },
+    "notices": {
+      "version": 1,
+      "file": "notices.json"
+    }
+  }
+}

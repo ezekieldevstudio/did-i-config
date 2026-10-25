@@ -1,0 +1,461 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "faq-001",
+      "order": 1,
+      "enabled": true,
+      "question": "When do today's counts reset?",
+      "answer": "Today's counts reset when the app or widget next reads a new local date. Your items remain. Past records are available in Calendar.",
+      "locales": {
+        "en": {
+          "question": "When do today's counts reset?",
+          "answer": "Today's counts reset when the app or widget next reads a new local date. Your items remain. Past records are available in Calendar."
+        },
+        "ko": {
+          "question": "오늘 체크 횟수는 언제 초기화되나요?",
+          "answer": "기기의 날짜가 바뀐 뒤 앱이나 위젯이 데이터를 읽을 때 오늘 횟수가 초기화돼요. 항목은 유지되고 지난 기록은 달력에서 볼 수 있어요."
+        },
+        "ja": {
+          "question": "今日の回数はいつリセットされますか？",
+          "answer": "端末の日付が変わった後、アプリやウィジェットがデータを読み込むと今日の回数がリセットされます。項目は残り、過去の記録はカレンダーで確認できます。"
+        },
+        "es": {
+          "question": "¿Cuándo se reinician los recuentos de hoy?",
+          "answer": "Se reinician cuando la app o el widget lee una nueva fecha local. Los elementos se conservan. Puedes consultar los registros anteriores en el calendario."
+        },
+        "pt": {
+          "question": "Quando as contagens de hoje são zeradas?",
+          "answer": "Quando o aplicativo ou widget lê uma nova data local. Os itens são mantidos. Os registros anteriores ficam disponíveis no calendário."
+        },
+        "fr": {
+          "question": "Quand les compteurs du jour sont-ils remis à zéro ?",
+          "answer": "Lorsque l’application ou le widget lit une nouvelle date locale. Les éléments sont conservés. Les anciens enregistrements restent accessibles dans le calendrier."
+        },
+        "de": {
+          "question": "Wann werden die heutigen Zähler zurückgesetzt?",
+          "answer": "Sobald die App oder das Widget ein neues lokales Datum einliest. Deine Einträge bleiben erhalten. Frühere Aufzeichnungen findest du im Kalender."
+        },
+        "it": {
+          "question": "Quando si azzerano i conteggi di oggi?",
+          "answer": "Quando l’app o il widget legge una nuova data locale. Le attività restano e i dati precedenti sono consultabili nel calendario."
+        },
+        "zh-Hans": {
+          "question": "今天的次数什么时候重置？",
+          "answer": "设备日期改变后，应用或小组件再次读取数据时会重置今天的次数。项目会保留，过去的记录可在日历中查看。"
+        },
+        "zh-Hant": {
+          "question": "今天的次數何時重設？",
+          "answer": "裝置日期變更後，App 或小工具再次讀取資料時會重設今天的次數。項目會保留，過去的紀錄可在日曆中查看。"
+        },
+        "id": {
+          "question": "Kapan hitungan hari ini direset?",
+          "answer": "Saat aplikasi atau widget membaca tanggal lokal yang baru. Item tetap tersimpan. Catatan sebelumnya dapat dilihat di Kalender."
+        },
+        "vi": {
+          "question": "Khi nào số lần hôm nay được đặt lại?",
+          "answer": "Khi ứng dụng hoặc tiện ích đọc dữ liệu sau khi ngày trên thiết bị thay đổi. Các mục vẫn được giữ. Bạn có thể xem lịch sử trong Lịch."
+        }
+      }
+    },
+    {
+      "id": "faq-002",
+      "order": 2,
+      "enabled": true,
+      "question": "Can I change my daily goal?",
+      "answer": "Open Settings and edit the item to change its daily goal. Lowering it below today's count also reduces today's count. Past records stay unchanged. You can delete items in Settings too.",
+      "locales": {
+        "en": {
+          "question": "Can I change my daily goal?",
+          "answer": "Open Settings and edit the item to change its daily goal. Lowering it below today's count also reduces today's count. Past records stay unchanged. You can delete items in Settings too."
+        },
+        "ko": {
+          "question": "하루 목표 횟수를 변경할 수 있나요?",
+          "answer": "설정에서 항목을 수정하면 돼요. 목표를 오늘 체크 횟수보다 낮추면 오늘 횟수도 줄어들어요. 지난 기록은 그대로예요. 항목 삭제도 설정에서 할 수 있어요."
+        },
+        "ja": {
+          "question": "1日の目標回数を変更できますか？",
+          "answer": "設定で項目を編集してください。今日の回数より低い目標にすると、今日の回数も減ります。過去の記録は変わりません。項目の削除も設定から行えます。"
+        },
+        "es": {
+          "question": "¿Puedo cambiar la meta diaria?",
+          "answer": "Edita el elemento en Ajustes. Si reduces la meta por debajo del recuento de hoy, este también se reduce. El historial no cambia. También puedes eliminar elementos en Ajustes."
+        },
+        "pt": {
+          "question": "Posso alterar a meta diária?",
+          "answer": "Edite o item nas Configurações. Se a nova meta for menor que a contagem de hoje, a contagem também será reduzida. O histórico não muda. Você também pode excluir itens nas Configurações."
+        },
+        "fr": {
+          "question": "Puis-je modifier l’objectif quotidien ?",
+          "answer": "Modifiez l’élément dans les paramètres. Si l’objectif devient inférieur au compteur du jour, celui-ci est aussi réduit. L’historique reste inchangé. Vous pouvez également supprimer des éléments dans les paramètres."
+        },
+        "de": {
+          "question": "Kann ich das Tagesziel ändern?",
+          "answer": "Bearbeite den Eintrag in den Einstellungen. Ein Ziel unter dem heutigen Zählerstand reduziert auch den heutigen Stand. Frühere Aufzeichnungen bleiben unverändert. In den Einstellungen kannst du Einträge auch löschen."
+        },
+        "it": {
+          "question": "Posso cambiare l’obiettivo giornaliero?",
+          "answer": "Modifica l’attività nelle Impostazioni. Se l’obiettivo scende sotto il conteggio di oggi, anche il conteggio viene ridotto. La cronologia resta invariata. Puoi anche eliminare attività dalle Impostazioni."
+        },
+        "zh-Hans": {
+          "question": "可以修改每日目标吗？",
+          "answer": "在设置中编辑项目即可。如果目标低于今天已完成的次数，今天的次数也会减少。过去的记录不变。也可以在设置中删除项目。"
+        },
+        "zh-Hant": {
+          "question": "可以修改每日目標嗎？",
+          "answer": "在設定中編輯項目即可。如果目標低於今天已完成的次數，今天的次數也會減少。過去的紀錄不變。也可以在設定中刪除項目。"
+        },
+        "id": {
+          "question": "Bisakah target harian diubah?",
+          "answer": "Edit item di Pengaturan. Jika target diturunkan di bawah hitungan hari ini, hitungan hari ini juga berkurang. Riwayat sebelumnya tidak berubah. Item juga dapat dihapus di Pengaturan."
+        },
+        "vi": {
+          "question": "Có thể đổi mục tiêu hằng ngày không?",
+          "answer": "Chỉnh sửa mục trong Cài đặt. Nếu giảm mục tiêu xuống dưới số lần hôm nay, số lần hôm nay cũng giảm. Lịch sử cũ không đổi. Bạn cũng có thể xóa mục trong Cài đặt."
+        }
+      }
+    },
+    {
+      "id": "faq-003",
+      "order": 3,
+      "enabled": true,
+      "question": "Can I undo a check?",
+      "answer": "Tap − on Home to undo the most recent check for that item today. The widget only supports +1.",
+      "locales": {
+        "en": {
+          "question": "Can I undo a check?",
+          "answer": "Tap − on Home to undo the most recent check for that item today. The widget only supports +1."
+        },
+        "ko": {
+          "question": "잘못 체크한 내용을 취소할 수 있나요?",
+          "answer": "홈의 − 버튼으로 해당 항목의 오늘 가장 최근 체크를 취소해요. 위젯에서는 +1만 가능해요."
+        },
+        "ja": {
+          "question": "間違えたチェックを取り消せますか？",
+          "answer": "ホームの−で、その項目の今日の最新チェックを取り消せます。ウィジェットでは+1のみ可能です。"
+        },
+        "es": {
+          "question": "¿Puedo deshacer una marca?",
+          "answer": "Pulsa − en Inicio para deshacer la marca más reciente de ese elemento hoy. El widget solo permite sumar +1."
+        },
+        "pt": {
+          "question": "Posso desfazer uma marcação?",
+          "answer": "Toque em − na tela inicial para desfazer a marcação mais recente daquele item hoje. O widget permite apenas +1."
+        },
+        "fr": {
+          "question": "Puis-je annuler une validation ?",
+          "answer": "Touchez − sur l’accueil pour annuler la dernière validation du jour pour cet élément. Le widget permet uniquement d’ajouter +1."
+        },
+        "de": {
+          "question": "Kann ich einen Check rückgängig machen?",
+          "answer": "Tippe auf der Startseite auf −, um den letzten heutigen Check dieses Eintrags zurückzunehmen. Das Widget unterstützt nur +1."
+        },
+        "it": {
+          "question": "Posso annullare una spunta?",
+          "answer": "Tocca − nella schermata iniziale per annullare l’ultima spunta di oggi per quell’attività. Il widget supporta solo +1."
+        },
+        "zh-Hans": {
+          "question": "可以撤销误点的记录吗？",
+          "answer": "点击首页的 − 可撤销该项目今天最近一次打卡。小组件只支持 +1。"
+        },
+        "zh-Hant": {
+          "question": "可以取消誤按的紀錄嗎？",
+          "answer": "點選首頁的 − 可取消該項目今天最近一次打卡。小工具只支援 +1。"
+        },
+        "id": {
+          "question": "Bisakah centang dibatalkan?",
+          "answer": "Ketuk − di Beranda untuk membatalkan centang terakhir hari ini pada item tersebut. Widget hanya mendukung +1."
+        },
+        "vi": {
+          "question": "Có thể hoàn tác lần đánh dấu không?",
+          "answer": "Nhấn − ở trang chủ để hoàn tác lần đánh dấu gần nhất hôm nay của mục đó. Tiện ích chỉ hỗ trợ +1."
+        }
+      }
+    },
+    {
+      "id": "faq-004",
+      "order": 4,
+      "enabled": true,
+      "question": "Can I see when I checked an item?",
+      "answer": "Home shows the latest check time today. Open Calendar, choose a date and tap an item to see check times. Older records without a saved time show Time unknown.",
+      "locales": {
+        "en": {
+          "question": "Can I see when I checked an item?",
+          "answer": "Home shows the latest check time today. Open Calendar, choose a date and tap an item to see check times. Older records without a saved time show Time unknown."
+        },
+        "ko": {
+          "question": "체크한 시각을 확인할 수 있나요?",
+          "answer": "홈에는 오늘 마지막 체크 시각이 보여요. 달력에서 날짜와 항목을 누르면 체크 시각을 볼 수 있어요. 시각이 저장되지 않은 이전 기록은 시각 미상으로 표시돼요."
+        },
+        "ja": {
+          "question": "チェックした時刻を確認できますか？",
+          "answer": "ホームには今日の最終チェック時刻が表示されます。カレンダーで日付と項目を選ぶと各時刻を確認できます。時刻のない古い記録は時刻不明と表示されます。"
+        },
+        "es": {
+          "question": "¿Puedo ver a qué hora marqué un elemento?",
+          "answer": "Inicio muestra la última hora de hoy. En el calendario, elige una fecha y un elemento para ver las horas. Los registros antiguos sin hora aparecen como hora desconocida."
+        },
+        "pt": {
+          "question": "Posso ver o horário das marcações?",
+          "answer": "A tela inicial mostra a última marcação de hoje. No calendário, escolha a data e o item para ver os horários. Registros antigos sem horário aparecem como horário desconhecido."
+        },
+        "fr": {
+          "question": "Puis-je voir l’heure de mes validations ?",
+          "answer": "L’accueil affiche la dernière heure du jour. Dans le calendrier, choisissez une date et un élément pour consulter les heures. Les anciens enregistrements sans heure indiquent une heure inconnue."
+        },
+        "de": {
+          "question": "Kann ich die Uhrzeit eines Checks sehen?",
+          "answer": "Die Startseite zeigt den letzten Check von heute. Wähle im Kalender ein Datum und einen Eintrag, um die Uhrzeiten zu sehen. Ältere Aufzeichnungen ohne Zeitangabe werden als unbekannt angezeigt."
+        },
+        "it": {
+          "question": "Posso vedere l’ora delle spunte?",
+          "answer": "La schermata iniziale mostra l’ultima ora di oggi. Nel calendario, scegli data e attività per vedere gli orari. I vecchi dati senza orario riportano un’ora sconosciuta."
+        },
+        "zh-Hans": {
+          "question": "可以查看打卡时间吗？",
+          "answer": "首页显示今天最后一次打卡时间。在日历中选择日期和项目即可查看各次时间。没有保存时间的旧记录会显示时间未知。"
+        },
+        "zh-Hant": {
+          "question": "可以查看打卡時間嗎？",
+          "answer": "首頁顯示今天最後一次打卡時間。在日曆中選擇日期和項目即可查看各次時間。沒有儲存時間的舊紀錄會顯示時間不明。"
+        },
+        "id": {
+          "question": "Bisakah saya melihat waktu mencentang?",
+          "answer": "Beranda menampilkan waktu centang terakhir hari ini. Pilih tanggal dan item di Kalender untuk melihat waktunya. Catatan lama tanpa waktu ditampilkan sebagai waktu tidak diketahui."
+        },
+        "vi": {
+          "question": "Có thể xem giờ đánh dấu không?",
+          "answer": "Trang chủ hiển thị giờ đánh dấu gần nhất hôm nay. Chọn ngày và mục trong Lịch để xem các thời điểm. Bản ghi cũ không lưu giờ sẽ hiển thị không rõ thời gian."
+        }
+      }
+    },
+    {
+      "id": "faq-005",
+      "order": 5,
+      "enabled": true,
+      "question": "How do I add a home screen widget?",
+      "answer": "Touch and hold an empty space on your Android home screen, choose Widgets, then add Did I Finish?. Steps vary by launcher. Use + to check an item; edit or undo in the app.",
+      "locales": {
+        "en": {
+          "question": "How do I add a home screen widget?",
+          "answer": "Touch and hold an empty space on your Android home screen, choose Widgets, then add Did I Finish?. Steps vary by launcher. Use + to check an item; edit or undo in the app."
+        },
+        "ko": {
+          "question": "홈 화면 위젯은 어떻게 추가하나요?",
+          "answer": "Android 홈 화면의 빈 곳을 길게 누르고 위젯에서 Did I Finish?를 추가하세요. 런처에 따라 방법이 달라요. +로 체크할 수 있고 수정이나 취소는 앱에서 해요."
+        },
+        "ja": {
+          "question": "ホーム画面にウィジェットを追加するには？",
+          "answer": "Androidのホーム画面の空白を長押しし、ウィジェットからDid I Finish?を追加します。手順はランチャーによって異なります。+でチェックし、編集や取り消しはアプリで行います。"
+        },
+        "es": {
+          "question": "¿Cómo añado un widget a la pantalla de inicio?",
+          "answer": "Mantén pulsado un espacio vacío de la pantalla de inicio de Android, elige Widgets y añade Did I Finish?. Los pasos varían según el lanzador. Usa + para marcar; edita o deshaz en la app."
+        },
+        "pt": {
+          "question": "Como adiciono o widget à tela inicial?",
+          "answer": "Mantenha pressionado um espaço vazio da tela inicial do Android, escolha Widgets e adicione Did I Finish?. Os passos variam conforme o launcher. Use + para marcar; edite ou desfaça no aplicativo."
+        },
+        "fr": {
+          "question": "Comment ajouter un widget à l’écran d’accueil ?",
+          "answer": "Appuyez longuement sur un espace vide de l’accueil Android, choisissez Widgets et ajoutez Did I Finish?. Les étapes dépendent du lanceur. Utilisez + pour valider ; modifiez ou annulez dans l’application."
+        },
+        "de": {
+          "question": "Wie füge ich ein Widget hinzu?",
+          "answer": "Halte eine freie Stelle auf dem Android-Startbildschirm gedrückt, wähle Widgets und füge Did I Finish? hinzu. Die Schritte hängen vom Launcher ab. Mit + checkst du ab; Bearbeiten und Rückgängigmachen erfolgen in der App."
+        },
+        "it": {
+          "question": "Come aggiungo un widget alla schermata iniziale?",
+          "answer": "Tieni premuto uno spazio vuoto nella schermata iniziale Android, scegli Widget e aggiungi Did I Finish?. La procedura dipende dal launcher. Usa + per segnare; modifica o annulla nell’app."
+        },
+        "zh-Hans": {
+          "question": "如何添加桌面小组件？",
+          "answer": "长按 Android 主屏幕空白处，选择小组件，再添加 Did I Finish?。具体步骤因桌面启动器而异。点击 + 打卡，修改或撤销请在应用内操作。"
+        },
+        "zh-Hant": {
+          "question": "如何新增主畫面小工具？",
+          "answer": "長按 Android 主畫面空白處，選擇小工具，再新增 Did I Finish?。步驟會因啟動器而異。點選 + 打卡，修改或取消請在 App 內操作。"
+        },
+        "id": {
+          "question": "Bagaimana cara menambahkan widget?",
+          "answer": "Tekan lama area kosong di layar utama Android, pilih Widget, lalu tambahkan Did I Finish?. Langkahnya bergantung pada peluncur. Gunakan + untuk mencentang; edit atau batalkan di aplikasi."
+        },
+        "vi": {
+          "question": "Làm sao thêm tiện ích vào màn hình chính?",
+          "answer": "Nhấn giữ vùng trống trên màn hình chính Android, chọn Tiện ích rồi thêm Did I Finish?. Các bước tùy thuộc trình khởi chạy. Dùng + để đánh dấu; chỉnh sửa hoặc hoàn tác trong ứng dụng."
+        }
+      }
+    },
+    {
+      "id": "faq-006",
+      "order": 6,
+      "enabled": true,
+      "question": "Why am I not receiving reminders?",
+      "answer": "Enable reminders in the app's Settings and save your times. Also allow Did I Finish? notifications in Android settings. Battery restrictions may delay delivery; check those settings too.",
+      "locales": {
+        "en": {
+          "question": "Why am I not receiving reminders?",
+          "answer": "Enable reminders in the app's Settings and save your times. Also allow Did I Finish? notifications in Android settings. Battery restrictions may delay delivery; check those settings too."
+        },
+        "ko": {
+          "question": "알림이 오지 않을 때는 어떻게 하나요?",
+          "answer": "앱 설정에서 알림을 켜고 시간을 저장하세요. Android 설정에서도 Did I Finish? 알림을 허용해야 해요. 배터리 제한으로 늦어질 수 있으니 관련 설정도 확인하세요."
+        },
+        "ja": {
+          "question": "通知が届かない場合は？",
+          "answer": "アプリの設定で通知をオンにして時刻を保存してください。Androidの設定でもDid I Finish?の通知を許可してください。バッテリー制限で遅れる場合があるため、その設定も確認しましょう。"
+        },
+        "es": {
+          "question": "¿Por qué no recibo recordatorios?",
+          "answer": "Actívalos en Ajustes de la app y guarda las horas. Permite también las notificaciones de Did I Finish? en Android. Las restricciones de batería pueden retrasarlas; revisa esos ajustes."
+        },
+        "pt": {
+          "question": "Por que não recebo lembretes?",
+          "answer": "Ative os lembretes nas Configurações do aplicativo e salve os horários. Permita também as notificações de Did I Finish? nas configurações do Android. Restrições de bateria podem atrasá-las; verifique essas opções."
+        },
+        "fr": {
+          "question": "Pourquoi ne reçois-je pas de rappels ?",
+          "answer": "Activez les rappels dans les paramètres de l’application et enregistrez les heures. Autorisez aussi les notifications de Did I Finish? dans Android. Les restrictions de batterie peuvent les retarder ; vérifiez ces réglages."
+        },
+        "de": {
+          "question": "Warum erhalte ich keine Erinnerungen?",
+          "answer": "Aktiviere sie in den App-Einstellungen und speichere die Zeiten. Erlaube auch Did I Finish?-Benachrichtigungen in Android. Akku-Beschränkungen können die Zustellung verzögern; prüfe diese Einstellungen ebenfalls."
+        },
+        "it": {
+          "question": "Perché non ricevo promemoria?",
+          "answer": "Attivali nelle Impostazioni dell’app e salva gli orari. Consenti anche le notifiche di Did I Finish? nelle impostazioni Android. Le restrizioni della batteria possono ritardarle: controlla anche quelle."
+        },
+        "zh-Hans": {
+          "question": "收不到提醒怎么办？",
+          "answer": "在应用设置中开启提醒并保存时间。同时在 Android 设置中允许 Did I Finish? 发送通知。电池限制可能导致延迟，请一并检查。"
+        },
+        "zh-Hant": {
+          "question": "收不到提醒怎麼辦？",
+          "answer": "在 App 設定中開啟提醒並儲存時間。同時在 Android 設定中允許 Did I Finish? 傳送通知。電池限制可能造成延遲，請一併檢查。"
+        },
+        "id": {
+          "question": "Mengapa pengingat tidak muncul?",
+          "answer": "Aktifkan pengingat di Pengaturan aplikasi dan simpan waktunya. Izinkan juga notifikasi Did I Finish? di pengaturan Android. Pembatasan baterai dapat menunda pengiriman; periksa pengaturan tersebut."
+        },
+        "vi": {
+          "question": "Tại sao tôi không nhận được lời nhắc?",
+          "answer": "Bật lời nhắc trong Cài đặt ứng dụng và lưu giờ. Đồng thời cho phép thông báo của Did I Finish? trong cài đặt Android. Giới hạn pin có thể làm chậm thông báo; hãy kiểm tra cả cài đặt đó."
+        }
+      }
+    },
+    {
+      "id": "faq-007",
+      "order": 7,
+      "enabled": true,
+      "question": "Can I use the app offline?",
+      "answer": "Checking items, local records and widgets work offline. Ads and downloading new FAQ or notice content need internet. Previously cached help remains available offline.",
+      "locales": {
+        "en": {
+          "question": "Can I use the app offline?",
+          "answer": "Checking items, local records and widgets work offline. Ads and downloading new FAQ or notice content need internet. Previously cached help remains available offline."
+        },
+        "ko": {
+          "question": "인터넷 없이 사용할 수 있나요?",
+          "answer": "항목 체크, 로컬 기록, 위젯은 오프라인에서도 사용할 수 있어요. 광고와 새 FAQ·공지 다운로드에는 인터넷이 필요해요. 이미 저장된 도움말은 오프라인에서도 볼 수 있어요."
+        },
+        "ja": {
+          "question": "オフラインでも使えますか？",
+          "answer": "チェック、端末内の記録、ウィジェットはオフラインで使えます。広告や新しいFAQ・お知らせの取得には通信が必要です。保存済みのヘルプはオフラインでも読めます。"
+        },
+        "es": {
+          "question": "¿Puedo usar la app sin internet?",
+          "answer": "Las marcas, los registros locales y los widgets funcionan sin conexión. Los anuncios y las nuevas preguntas frecuentes o avisos requieren internet. La ayuda ya guardada sigue disponible sin conexión."
+        },
+        "pt": {
+          "question": "Posso usar sem internet?",
+          "answer": "Marcações, registros locais e widgets funcionam offline. Anúncios e novos conteúdos de perguntas frequentes ou avisos precisam de internet. A ajuda já salva continua disponível offline."
+        },
+        "fr": {
+          "question": "Puis-je utiliser l’application hors ligne ?",
+          "answer": "Les validations, l’historique local et les widgets fonctionnent hors ligne. Les publicités et les nouveaux contenus d’aide ou annonces nécessitent internet. L’aide déjà enregistrée reste disponible hors ligne."
+        },
+        "de": {
+          "question": "Funktioniert die App offline?",
+          "answer": "Checks, lokale Aufzeichnungen und Widgets funktionieren offline. Werbung und neue FAQ oder Mitteilungen benötigen Internet. Bereits gespeicherte Hilfe bleibt offline verfügbar."
+        },
+        "it": {
+          "question": "Posso usare l’app senza internet?",
+          "answer": "Spunte, dati locali e widget funzionano offline. Pubblicità e nuovi contenuti FAQ o avvisi richiedono internet. L’aiuto già salvato resta disponibile offline."
+        },
+        "zh-Hans": {
+          "question": "可以离线使用吗？",
+          "answer": "打卡、本地记录和小组件可离线使用。广告以及下载新的常见问题和公告需要联网。已缓存的帮助内容可离线查看。"
+        },
+        "zh-Hant": {
+          "question": "可以離線使用嗎？",
+          "answer": "打卡、本機紀錄和小工具可離線使用。廣告及下載新的常見問題和公告需要網路。已快取的說明內容可離線查看。"
+        },
+        "id": {
+          "question": "Bisakah aplikasi dipakai tanpa internet?",
+          "answer": "Centang, catatan lokal, dan widget bekerja offline. Iklan serta unduhan FAQ atau pengumuman baru memerlukan internet. Bantuan yang sudah disimpan tetap tersedia offline."
+        },
+        "vi": {
+          "question": "Có thể dùng khi không có internet không?",
+          "answer": "Đánh dấu, bản ghi cục bộ và tiện ích hoạt động ngoại tuyến. Quảng cáo và việc tải câu hỏi thường gặp hoặc thông báo mới cần internet. Nội dung trợ giúp đã lưu vẫn đọc được ngoại tuyến."
+        }
+      }
+    },
+    {
+      "id": "faq-008",
+      "order": 8,
+      "enabled": true,
+      "question": "What happens if I change phones or uninstall?",
+      "answer": "Records are stored on this device. The app has no cloud backup or sync. Uninstalling or clearing app data can remove records. Android backup or device transfer depends on system settings and is not guaranteed.",
+      "locales": {
+        "en": {
+          "question": "What happens if I change phones or uninstall?",
+          "answer": "Records are stored on this device. The app has no cloud backup or sync. Uninstalling or clearing app data can remove records. Android backup or device transfer depends on system settings and is not guaranteed."
+        },
+        "ko": {
+          "question": "휴대폰 변경 또는 앱 삭제 시 기록은 어떻게 되나요?",
+          "answer": "기록은 이 기기에 저장돼요. 앱 자체 클라우드 백업이나 동기화는 없어요. 앱 삭제나 데이터 초기화로 기록이 사라질 수 있어요. Android 백업·기기 이전은 시스템 설정에 따라 달라지며 복원을 보장하지 않아요."
+        },
+        "ja": {
+          "question": "機種変更やアンインストールで記録はどうなりますか？",
+          "answer": "記録はこの端末に保存されます。アプリ独自のクラウドバックアップや同期はありません。アンインストールやデータ消去で記録が失われる場合があります。Androidのバックアップ・移行はシステム設定次第で、復元は保証されません。"
+        },
+        "es": {
+          "question": "¿Qué pasa si cambio de móvil o desinstalo la app?",
+          "answer": "Los registros se guardan en este dispositivo. La app no ofrece copia en la nube ni sincronización. Desinstalarla o borrar sus datos puede eliminar los registros. La copia o transferencia de Android depende del sistema y no garantiza la recuperación."
+        },
+        "pt": {
+          "question": "O que acontece se eu trocar de celular ou desinstalar?",
+          "answer": "Os registros ficam neste dispositivo. O aplicativo não oferece backup na nuvem nem sincronização. Desinstalar ou limpar os dados pode apagar os registros. O backup ou a transferência do Android depende do sistema e a restauração não é garantida."
+        },
+        "fr": {
+          "question": "Que deviennent les données si je change de téléphone ou désinstalle l’application ?",
+          "answer": "Les enregistrements restent sur cet appareil. L’application ne propose ni sauvegarde cloud ni synchronisation. Une désinstallation ou un effacement des données peut supprimer les enregistrements. La sauvegarde et le transfert Android dépendent du système ; la restauration n’est pas garantie."
+        },
+        "de": {
+          "question": "Was passiert bei einem Handywechsel oder einer Deinstallation?",
+          "answer": "Aufzeichnungen liegen auf diesem Gerät. Die App bietet kein Cloud-Backup und keine Synchronisierung. Deinstallation oder Löschen der App-Daten kann Aufzeichnungen entfernen. Android-Backup und Geräteübertragung hängen vom System ab; eine Wiederherstellung ist nicht garantiert."
+        },
+        "it": {
+          "question": "Cosa succede se cambio telefono o disinstallo l’app?",
+          "answer": "I dati sono salvati su questo dispositivo. L’app non offre backup cloud o sincronizzazione. Disinstallare o cancellare i dati dell’app può eliminare i registri. Backup e trasferimento Android dipendono dal sistema; il ripristino non è garantito."
+        },
+        "zh-Hans": {
+          "question": "换手机或卸载后，记录会怎样？",
+          "answer": "记录保存在此设备上。应用不提供云备份或同步。卸载应用或清除数据可能删除记录。Android 备份及设备迁移取决于系统设置，无法保证恢复。"
+        },
+        "zh-Hant": {
+          "question": "換手機或解除安裝後，紀錄會怎樣？",
+          "answer": "紀錄儲存在此裝置。App 不提供雲端備份或同步。解除安裝或清除資料可能刪除紀錄。Android 備份及裝置移轉取決於系統設定，無法保證還原。"
+        },
+        "id": {
+          "question": "Apa yang terjadi jika saya mengganti ponsel atau menghapus aplikasi?",
+          "answer": "Catatan disimpan di perangkat ini. Aplikasi tidak menyediakan cadangan cloud atau sinkronisasi. Menghapus aplikasi atau datanya dapat menghapus catatan. Cadangan atau transfer Android bergantung pada sistem; pemulihan tidak dijamin."
+        },
+        "vi": {
+          "question": "Điều gì xảy ra khi đổi điện thoại hoặc gỡ ứng dụng?",
+          "answer": "Bản ghi được lưu trên thiết bị này. Ứng dụng không có sao lưu đám mây hay đồng bộ. Gỡ ứng dụng hoặc xóa dữ liệu có thể làm mất bản ghi. Sao lưu hay chuyển thiết bị Android tùy thuộc hệ thống và không đảm bảo khôi phục."
+        }
+      }
+    }
+  ]
+}

@@ -17,3 +17,6 @@ serviceAccount*.json
 *service-role*
 *secret*.json
 *secret*.env
+
+# Local-only unpublished notice drafts.
+/notices.draft.json
