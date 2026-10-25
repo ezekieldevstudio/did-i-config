@@ -1,4 +1,119 @@
 {
-  "version": 1,
-  "items": []
+  "version": 2,
+  "items": [
+    {
+      "id": "notice-001",
+      "publishedAt": "2026-10-25",
+      "enabled": true,
+      "title": "Welcome to Did I Finish?",
+      "body": "A simple daily checklist. Add an item, set a daily goal and tap to check. Use Calendar, reminders and widgets to keep track.",
+      "locales": {
+        "en": {
+          "title": "Welcome to Did I Finish?",
+          "body": "A simple daily checklist. Add an item, set a daily goal and tap to check. Use Calendar, reminders and widgets to keep track."
+        },
+        "ko": {
+          "title": "Did I Finish? 사용 안내",
+          "body": "간단한 일일 체크 앱이에요. 항목을 추가하고 하루 목표를 정한 뒤 터치해 체크하세요. 달력, 알림, 위젯으로 편리하게 확인할 수 있어요."
+        },
+        "ja": {
+          "title": "Did I Finish?の使い方",
+          "body": "シンプルな毎日のチェックアプリです。項目と1日の目標を設定し、タップでチェック。カレンダー、通知、ウィジェットも活用できます。"
+        },
+        "es": {
+          "title": "Bienvenido a Did I Finish?",
+          "body": "Una lista diaria sencilla. Añade un elemento, fija una meta y toca para marcar. Usa el calendario, los recordatorios y los widgets."
+        },
+        "pt": {
+          "title": "Conheça Did I Finish?",
+          "body": "Uma lista diária simples. Adicione um item, defina uma meta e toque para marcar. Aproveite o calendário, os lembretes e os widgets."
+        },
+        "fr": {
+          "title": "Bienvenue dans Did I Finish?",
+          "body": "Une liste quotidienne simple. Ajoutez un élément, fixez un objectif et touchez pour valider. Profitez du calendrier, des rappels et des widgets."
+        },
+        "de": {
+          "title": "Willkommen bei Did I Finish?",
+          "body": "Eine einfache tägliche Checkliste. Füge einen Eintrag hinzu, setze ein Tagesziel und checke per Tippen ab. Nutze Kalender, Erinnerungen und Widgets."
+        },
+        "it": {
+          "title": "Benvenuto in Did I Finish?",
+          "body": "Una semplice lista quotidiana. Aggiungi un’attività, imposta un obiettivo e tocca per segnare. Usa calendario, promemoria e widget."
+        },
+        "zh-Hans": {
+          "title": "Did I Finish? 使用指南",
+          "body": "简单的每日打卡应用。添加项目、设定每日目标，轻点即可打卡。还可使用日历、提醒和小组件。"
+        },
+        "zh-Hant": {
+          "title": "Did I Finish? 使用指南",
+          "body": "簡單的每日打卡 App。新增項目、設定每日目標，輕點即可打卡。也能使用日曆、提醒和小工具。"
+        },
+        "id": {
+          "title": "Panduan Did I Finish?",
+          "body": "Daftar harian yang sederhana. Tambahkan item, tentukan target, lalu ketuk untuk mencentang. Manfaatkan Kalender, pengingat, dan widget."
+        },
+        "vi": {
+          "title": "Hướng dẫn Did I Finish?",
+          "body": "Danh sách hằng ngày đơn giản. Thêm mục, đặt mục tiêu rồi chạm để đánh dấu. Bạn cũng có thể dùng Lịch, lời nhắc và tiện ích."
+        }
+      }
+    },
+    {
+      "id": "notice-002",
+      "publishedAt": "2026-10-25",
+      "enabled": true,
+      "title": "Features in version 2.0.1",
+      "body": "Review past records and check times in Calendar. Set up to three daily reminders, and check items with +1 from your home screen widget. Edit item names and daily goals in Settings.",
+      "locales": {
+        "en": {
+          "title": "Features in version 2.0.1",
+          "body": "Review past records and check times in Calendar. Set up to three daily reminders, and check items with +1 from your home screen widget. Edit item names and daily goals in Settings."
+        },
+        "ko": {
+          "title": "2.0.1 기능 안내",
+          "body": "달력에서 지난 기록과 체크 시각을 확인하세요. 하루 최대 3개의 알림을 설정하고 홈 화면 위젯에서 +1로 체크할 수 있어요. 항목 이름과 하루 목표는 설정에서 수정하세요."
+        },
+        "ja": {
+          "title": "2.0.1の機能案内",
+          "body": "カレンダーで過去の記録とチェック時刻を確認できます。毎日の通知を最大3件設定し、ホーム画面のウィジェットから+1でチェックできます。項目名と1日の目標は設定で変更できます。"
+        },
+        "es": {
+          "title": "Funciones de la versión 2.0.1",
+          "body": "Consulta registros y horas anteriores en el calendario. Configura hasta tres recordatorios diarios y marca con +1 desde el widget de la pantalla de inicio. Edita los nombres y las metas diarias en Ajustes."
+        },
+        "pt": {
+          "title": "Recursos da versão 2.0.1",
+          "body": "Consulte registros anteriores e horários no calendário. Configure até três lembretes diários e marque com +1 pelo widget da tela inicial. Edite os nomes dos itens e as metas diárias nas Configurações."
+        },
+        "fr": {
+          "title": "Fonctionnalités de la version 2.0.1",
+          "body": "Consultez les anciens enregistrements et les heures de validation dans le calendrier. Configurez jusqu’à trois rappels quotidiens et validez avec +1 depuis le widget de l’écran d’accueil. Modifiez les noms et les objectifs quotidiens dans les paramètres."
+        },
+        "de": {
+          "title": "Funktionen in Version 2.0.1",
+          "body": "Sieh frühere Aufzeichnungen und Check-Zeiten im Kalender. Richte bis zu drei tägliche Erinnerungen ein und checke mit +1 im Startbildschirm-Widget ab. Namen und Tagesziele kannst du in den Einstellungen bearbeiten."
+        },
+        "it": {
+          "title": "Funzioni della versione 2.0.1",
+          "body": "Consulta i dati precedenti e gli orari delle spunte nel calendario. Imposta fino a tre promemoria al giorno e segna con +1 dal widget della schermata iniziale. Modifica i nomi e gli obiettivi giornalieri nelle Impostazioni."
+        },
+        "zh-Hans": {
+          "title": "2.0.1 功能介绍",
+          "body": "在日历中查看过去的记录和打卡时间。每天最多可设置三个提醒，也可通过桌面小组件的 +1 打卡。项目名称和每日目标可在设置中修改。"
+        },
+        "zh-Hant": {
+          "title": "2.0.1 功能介紹",
+          "body": "在日曆中查看過去的紀錄和打卡時間。每天最多可設定三個提醒，也能透過主畫面小工具的 +1 打卡。項目名稱和每日目標可在設定中修改。"
+        },
+        "id": {
+          "title": "Fitur versi 2.0.1",
+          "body": "Lihat catatan sebelumnya dan waktu centang di Kalender. Atur hingga tiga pengingat harian dan centang dengan +1 dari widget layar utama. Edit nama item dan target harian di Pengaturan."
+        },
+        "vi": {
+          "title": "Các tính năng của phiên bản 2.0.1",
+          "body": "Xem bản ghi trước đây và giờ đánh dấu trong Lịch. Đặt tối đa ba lời nhắc mỗi ngày và đánh dấu bằng +1 từ tiện ích trên màn hình chính. Chỉnh sửa tên mục và mục tiêu hằng ngày trong Cài đặt."
+        }
+      }
+    }
+  ]
 }
